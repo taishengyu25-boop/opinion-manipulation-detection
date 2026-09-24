@@ -13,9 +13,10 @@
 
 ## Model Weights
 
-权重文件可通过以下方式获取：
+训练后的权重文件可通过以下方式获取：
 
-链接:  https://pan.baidu.com/s/1CS1SntFP5236FSPLB8VZyg?pwd=37hx 提取码: 37hx
+链接:  https://pan.baidu.com/s/1Q7KDxkTvu3AXnsXk3gcG_w?pwd=pt7r 提取码: pt7r 
+
 下载后，将权重文件放置于：
 model/
 
