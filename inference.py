@@ -4,10 +4,6 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 
-
-# =====================================================
-# Prompt 构建 (保持与原训练逻辑一致)
-# =====================================================
 def build_prompt(text: str) -> str:
     return f"""任务：判断下面文本是否包含舆论操控行为。
 舆论操控的定义:
