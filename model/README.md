@@ -17,8 +17,7 @@
 
 模型权重可通过以下方式获取：
 
-链接: https://pan.baidu.com/s/1pr7sN5QobUbh9wzmxM2fQQ?pwd=59qm 提取码: 59qm 
-
+链接:  https://pan.baidu.com/s/1CS1SntFP5236FSPLB8VZyg?pwd=37hx 提取码: 37hx
 下载后，将模型文件放置于：
 
 model/
